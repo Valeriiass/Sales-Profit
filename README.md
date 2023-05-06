@@ -1,2 +1,2 @@
-# Sales-Profit
-I compared Sales and Profit data H.company
+# Sales-Profit, States, items - Analysis
+I conducted a company analysis
